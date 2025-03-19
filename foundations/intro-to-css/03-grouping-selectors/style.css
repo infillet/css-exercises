@@ -1,0 +1,14 @@
+.Click-me,
+.Dont-click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.Click-me {
+    color: white;
+    background-color: #000;
+}
+
+.Dont-click {
+background-color: yellow;
+}
